@@ -1,0 +1,192 @@
+
+--------------------
+Traceroute for 8.8.8.8
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['209.85.174.62', 'Non-lookupable IP address.']
+['142.251.70.101', 'Non-lookupable IP address.']
+['142.251.50.245', 'Non-lookupable IP address.']
+['8.8.8.8', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 8.8.4.4
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['209.85.174.62', 'Non-lookupable IP address.']
+['142.251.70.103', 'Non-lookupable IP address.']
+['209.85.243.97', 'Non-lookupable IP address.']
+['8.8.4.4', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 1.1.1.1
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['1.1.1.1', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 9.9.9.9
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['9.9.9.9', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 208.67.222.222
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['208.67.222.222', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 132.163.96.1
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['76.74.114.46', 'Non-lookupable IP address.']
+['173.205.57.38', 'Non-lookupable IP address.']
+['209.245.12.74', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 129.6.15.28
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['173.205.57.38', 'Non-lookupable IP address.']
+['4.69.218.74', 'Non-lookupable IP address.']
+['209.246.214.130', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 17.253.144.10
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['17.253.144.10', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 151.101.1.69
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['151.101.1.69', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 104.244.42.1
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['104.244.42.1', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 23.192.228.80
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['89.149.130.34', 'Non-lookupable IP address.']
+['69.174.0.46', 'Non-lookupable IP address.']
+['23.209.163.36', 'Non-lookupable IP address.']
+['23.32.63.35', 'Non-lookupable IP address.']
+['23.207.232.35', 'Non-lookupable IP address.']
+['23.203.158.17', 'Non-lookupable IP address.']
+['23.192.228.80', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 128.232.132.8
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['213.248.74.220', 'Non-lookupable IP address.']
+['62.115.132.154', 'Non-lookupable IP address.']
+['62.115.139.247', 'Non-lookupable IP address.']
+['62.115.136.141', 'Non-lookupable IP address.']
+['62.115.175.107', 'Non-lookupable IP address.']
+['146.97.35.193', 'Non-lookupable IP address.']
+['146.97.33.62', 'Non-lookupable IP address.']
+['146.97.35.218', 'Non-lookupable IP address.']
+['146.97.40.46', 'Non-lookupable IP address.']
+['131.111.1.42', 'Non-lookupable IP address.']
+['131.111.1.37', 'Non-lookupable IP address.']
+['131.111.6.138', 'Non-lookupable IP address.']
+['128.232.197.67', 'Non-lookupable IP address.']
+['128.232.197.65', 'Non-lookupable IP address.']
+['128.232.128.2', 'Non-lookupable IP address.']
+['128.232.128.10', 'Non-lookupable IP address.']
+['128.232.132.8', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 129.67.242.154
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['62.115.132.134', 'Non-lookupable IP address.']
+['62.115.139.247', 'Non-lookupable IP address.']
+['62.115.175.131', 'Non-lookupable IP address.']
+['146.97.35.197', 'Non-lookupable IP address.']
+['146.97.33.2', 'Non-lookupable IP address.']
+['146.97.37.194', 'Non-lookupable IP address.']
+['193.63.108.70', 'Non-lookupable IP address.']
+['193.63.109.42', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 137.82.1.1
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['154.11.2.86', 'Non-lookupable IP address.']
+['66.163.69.46', 'Non-lookupable IP address.']
+['208.98.209.22', 'Non-lookupable IP address.']
+['134.87.30.158', 'Non-lookupable IP address.']
+['134.87.30.149', 'Non-lookupable IP address.']
+['137.82.88.122', 'Non-lookupable IP address.']
+['137.82.123.29', 'Non-lookupable IP address.']
+['137.82.1.1', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 142.103.1.1
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['154.11.2.86', 'Non-lookupable IP address.']
+['208.98.209.22', 'Non-lookupable IP address.']
+['134.87.30.158', 'Non-lookupable IP address.']
+['134.87.30.149', 'Non-lookupable IP address.']
+['137.82.88.122', 'Non-lookupable IP address.']
+['137.82.123.137', 'Non-lookupable IP address.']
+['142.103.1.1', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 167.40.79.24
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 23.185.0.1
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['154.11.6.227', 'Non-lookupable IP address.']
+['23.185.0.1', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 192.203.230.10
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['154.11.15.73', 'Non-lookupable IP address.']
+['192.203.230.10', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 193.62.216.27
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['62.115.132.154', 'Non-lookupable IP address.']
+['62.115.139.247', 'Non-lookupable IP address.']
+['62.115.120.239', 'Non-lookupable IP address.']
+['62.115.175.131', 'Non-lookupable IP address.']
+['146.97.35.197', 'Non-lookupable IP address.']
+['146.97.33.2', 'Non-lookupable IP address.']
+['146.97.33.22', 'Non-lookupable IP address.']
+['146.97.33.42', 'Non-lookupable IP address.']
+['146.97.71.98', 'Non-lookupable IP address.']
+['146.97.40.86', 'Non-lookupable IP address.']
+['129.215.62.144', 'Non-lookupable IP address.']
+
+--------------------
+Traceroute for 202.112.14.151
+['192.168.1.254', 'Non-lookupable IP address.']
+['100.84.12.1', 'Non-lookupable IP address.']
+['63.220.66.128', 'Non-lookupable IP address.']
+['63.218.115.14', 'Non-lookupable IP address.']
+['101.4.114.221', 'Non-lookupable IP address.']
+['101.4.114.169', 'Non-lookupable IP address.']
+['101.4.118.41', 'Non-lookupable IP address.']
+['101.4.112.14', 'Non-lookupable IP address.']
+['101.4.112.49', 'Non-lookupable IP address.']
+['101.4.112.194', 'Non-lookupable IP address.']
+['202.115.255.213', 'Non-lookupable IP address.']
+['202.112.14.151', 'Non-lookupable IP address.']
