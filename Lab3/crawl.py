@@ -36,11 +36,25 @@ def fetch(url):
 import re
 
 
-def extract_links(html):
+from urllib.parse import urljoin
+
+from urllib.parse import urljoin
+
+def extract_links(html, base_url=""):
     try:
         html = str(html)  # ensure string type
-        links = re.findall(r'href=[\'"]?([^\'" >]+)', html)
-        return list(set(links))  # remove duplicates
+        raw_links = re.findall(r'href=[\'"]?([^\'" >]+)', html)
+        links = []
+        for link in raw_links:
+            if link.startswith("//"):  # protocol-relative
+                link = "http:" + link
+            elif not link.startswith("http"):  # relative path
+                if base_url:
+                    link = urljoin(base_url, link)
+                else:
+                    continue
+            links.append(link)
+        return list(set(links))  # deduplicate
     except Exception as e:
         print(f"Error extracting links: {e}")
         return []
@@ -53,9 +67,13 @@ def crawl(start_url, steps):
         try:
             url = choice(queue)
             queue.remove(url)
-            queue = list(set(queue + extract_links(fetch(url))))
+            html = fetch(url)
+            if html:
+                queue = list(set(queue + extract_links(html, url)))
             crawled.append(url)
-            sleep(5 + randint(0, 10))
-        except:
+            sleep(5 + randint(0, 10))  # required delay per assignment
+        except Exception as e:
+            print(f"Error during crawl step: {e}")
             pass
     return crawled
+
